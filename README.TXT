@@ -12,3 +12,6 @@ It is discussed in chapter 3.
 To use this project, create an instance of class NumberDisplay. Then inspect this 
 instance and leave the inspector window open. With the inspector window open, 
 call the object's methods, such as increment and setValue.
+
+
+My answers were lost when trying to save this file, i believe i have talked to you about it
